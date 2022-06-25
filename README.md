@@ -5,7 +5,10 @@
 - The Submission should be created as a pull request to this repository.
 - The origanility of the code will be evaluated.
 - Plagiarism of any sort if found will lead to termination from the competition.
-- Upload the Video of the working of the chatbot using following <a href="">LINK</a>
+- Upload the Video consisting the working of the chatbot also fill necessary details using following <a href="https://forms.gle/JPPWG81aa7FNSGV88">Google form</a>.
 - Those using any other platform where the code cannot be submitted as a pull request:
-    - Fill the <a href="https://forms.gle/JPPWG81aa7FNSGV88" target="_blank">FORM</a> 
-    
+    - Fill the <a href="https://forms.gle/JPPWG81aa7FNSGV88" target="_blank">FORM</a>.
+- Those having difficulty in creating a Pull request upload your code into the drive link provided in the <a href="https://forms.gle/JPPWG81aa7FNSGV88">Google form</a>.
+    - While uploading to Drive create a folder with your name (if team create folder with participant 1 name).
+    - For eg: Folder name should be `Fahad-Chat-it` where `Fahad` is the participant name.
+incase of any queries contact ```fahadpnoushad@ieee.org``` or contact through the whatsapp group.
