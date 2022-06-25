@@ -3,6 +3,7 @@
 # CHAT-IT - chat bot competition
 
 - The Submission should be created as a pull request to this repository.
+- Make sure to add a Readme.md file in the Pull request explaining how to run your code in another machine (Documentation). You can look out sample documentation in this repository : <a href="https://github.com/FAHADPN/Django_Ecommerce_website#readme">Sample Documentation</a>
 - The origanility of the code will be evaluated.
 - Plagiarism of any sort if found will lead to termination from the competition.
 - Upload the Video consisting the working of the chatbot also fill necessary details using following <a href="https://forms.gle/JPPWG81aa7FNSGV88">Google form</a>.
